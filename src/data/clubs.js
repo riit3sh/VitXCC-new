@@ -121,5 +121,23 @@ export const clubs = [
             facebook: "https://www.facebook.com/ecellvit/",
             linkedin: "https://in.linkedin.com/company/ecellvitvellore"
         }
+    },
+    {
+        id: 12,
+        name: "TLA",
+        category: "cultural",
+        description: "The VIT Tamil Literary Association enriches students with knowledge of the Tamil language, literature, film, and performing arts through various events and activities.",
+        image: "https://jfeddcbpwoakhalxcqpx.supabase.co/storage/v1/object/public/webproj//TLA.jpg",
+        socialMedia: {
+            instagram: "https://www.instagram.com/vitu.tla/",
+        },
+        id: 13,
+        name: "ANOKHA",
+        category: "ngo",
+        description: "ANOKHA's aim is to reach out to the underprivileged with a predefined curriculum and educate them.",
+        image: "https://jfeddcbpwoakhalxcqpx.supabase.co/storage/v1/object/public/webproj//aoha.jpg",
+        socialMedia: {
+            instagram: "https://www.instagram.com/ngoanokha/",
+        }
     }
 ]; 
