@@ -12,10 +12,10 @@ export const clubs = [
     },
     {
         id: 2,
-        name: "Robotics Club",
+        name: "Robovitics",
         category: "tech",
         description: "A community of robotics enthusiasts working on innovative projects. Organizes workshops on robotics, automation, and participates in national robotics competitions.",
-        image: "https://jfeddcbpwoakhalxcqpx.supabase.co/storage/v1/object/public/webproj//robo.jpg",
+        image: "https://jfeddcbpwoakhalxcqpx.supabase.co/storage/v1/object/public/webproj//robovit.jpg",
         socialMedia: {
             instagram: "https://www.instagram.com/robovitics/?hl=en",
             linkedin: "https://in.linkedin.com/company/robovitics"
